@@ -31,7 +31,7 @@ Wanderlust helps you discover and book unique accommodations around the world. I
    ```bash
    git clone https://github.com/your-username/Wanderlust-Project.git
    cd Wanderlust-Project
-##🤝 Contributing
+## 🤝 Contributing
 Fork the repo
 
 Create a feature branch: git checkout -b feature/awesome-feature
@@ -42,7 +42,7 @@ Push to branch: git push origin feature/awesome-feature
 
 Open a pull request
 
-##📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
 ⭐ If you find Wanderlust useful, give it a star! ⭐
