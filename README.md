@@ -19,11 +19,10 @@ Wanderlust helps you discover and book unique accommodations around the world. I
 ---
 
 ## 🛠️ Technologies Used  
-- **Frontend:** React, React Router, Axios  
+- **Frontend:** HTML,JavaScript  
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB (Mongoose)  
-- **Auth:** JSON Web Tokens (JWT)  
-- **Styling:** CSS / Tailwind CSS  
+- **Styling:** CSS 
 
 ---
 
